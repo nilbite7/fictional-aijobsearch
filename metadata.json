@@ -1,0 +1,5 @@
+{
+  "name": "AI Job Search Engine",
+  "description": "A smart job search engine that finds listings based on job titles or an uploaded resume. It provides AI-powered recommendations for each job to highlight candidate-role fit.",
+  "requestFramePermissions": []
+}
